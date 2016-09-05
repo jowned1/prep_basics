@@ -398,9 +398,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+Web server is system to process HTTP requests, to deliver, store or process web pages to clients. All communication between client and server takes place by using Hypertext Transfer Protocol (HTTP). A user agent that can be a web browser or web crawler initiates communication by making a request to a especific resource using HTTP and the server responds with that content, if it is available to find it, if not, it will give a error message.
 
-*Contributed by [Unknown]*
+*Contributed by [Jonathan Bai](https://github.com/jowned1)*
 
 
 #### Bugs
@@ -515,7 +515,9 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 #### Front End / Back End
 
-"Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
+Front-End is a role into Tech jobs that takes place into UX|UI and layout using HTML, CSS and Javascript programming that renders content with design into web browsers, working as client-side.
+Back-End in another hand is focused into web applications, frameworks in many different languages like PHP, Ruby, Phyton, Java and others that operates on server-side. 
+
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
@@ -906,8 +908,10 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
+First, you should check with your other team member, which code will be into the project and what is the best logical solution.
+
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
+*Contributed by [Jonathan Bai](https://github.com/jowned1)*
 
